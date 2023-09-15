@@ -1,0 +1,90 @@
+*{ 
+  margin: 0;
+  padding: 0;
+  }
+  
+  body{
+                  background-image: url(images/bg-pattern-top.svg);
+                  background-color: rgb(67,162,173);
+  }
+  
+  main{
+                  margin-right: auto;
+                  margin-left: auto;
+                  height: 50%;
+                  width: 24%;
+                  margin-top: 20%;
+                  background-color: white;
+                  border-radius: 10px;
+  }
+  #img2{
+                  border-radius: 50px 50px 50px 50px;
+                  align-self: center;
+                  margin-top: 0;
+                  margin-bottom: 10px;
+  }
+  #img1{
+                  max-width: 100%;
+                  border-radius:10px 10px 0 0;
+  }
+   .container{
+                  display: flex;
+                  flex-direction: column;
+                  margin-right: auto;
+                  margin-left: auto;
+                  text-align: center;
+   }
+   .containerp{
+                  display: flex;
+                  justify-content: space-around;
+                  margin-top: 20px;
+      }
+  
+   #p2{
+                  margin-right: 10px;
+                  font-weight: bold;
+                  font-size: large;
+              }
+   #p1{
+                  margin-left: 10px;
+                  font-weight: bold;
+                  font-size: large;
+   }
+   #p3{
+                  margin-right: 10px;
+                  font-weight: bold;
+   }
+   #p5{
+                  margin-top: 5px;
+                  margin-bottom: 20px;
+   }
+   #name{
+                  font-weight: bold;
+                  margin-top: 15px;
+                  font-size: large;
+   }
+  
+   .line{
+                  border-bottom: 1px solid #a9a9a9 ;
+   }
+   #like{
+                   margin-left: 5px;
+                   color: #a9a9a9;
+   }
+   p{
+                  font-size: small;
+                  
+   }
+   #nos{
+                  font-size: large;
+                  color: #a9a9a9;
+   }
+   #follow{
+                   color: #a9a9a9;
+      }
+  
+   #photo{
+                  color: #a9a9a9;
+   }
+  
+   
